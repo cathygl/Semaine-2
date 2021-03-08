@@ -1,0 +1,47 @@
+h1{
+    color: blue;
+    font-weight: bold}
+
+.highlight{
+    background-color: yellow;
+    font-style: italic;
+}
+
+#main-menu{
+    border: black solid 2px;
+    border-radius: 10px; 
+}
+
+.highlight .highlight{
+    color: blue;
+}
+
+article p{
+    border: dotted 2px green;
+}
+
+article h2{
+    font-size: 0.5em;
+    text-transform: uppercase;
+}
+
+.carre{
+    height: 600px;
+    width: 600px;
+}
+
+.carré1{
+    background-color: red;
+}
+
+.carré2{
+    background-color: green;
+}
+
+.carré3{
+    background-color: blue;
+}
+
+.bord{
+    border: 20px solid black;
+}
